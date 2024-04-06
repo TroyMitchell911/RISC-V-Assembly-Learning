@@ -6,6 +6,17 @@ A repository established for learning RISC-V assembly instructions. I will share
 
 [Click here](./1_Env)
 
+# Building and usage
+
+- `make`：Compile and build
+- `make debug`：Start debugging
+- `make code`：Disassemble to view binary code
+- `make clean`：cleanup
+
+We just need input `make debug` then input `si` or `n` to perform next instruction and view the value of register when you want to view the result of program.
+
+Press **Ctrl-C** and then input `quit` to exit GDB and QEMU if you have viewed the result of program.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first

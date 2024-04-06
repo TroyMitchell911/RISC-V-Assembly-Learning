@@ -4,7 +4,7 @@ A repository established for learning RISC-V assembly instructions. I will share
 
 # How should I install env
 
-[Click here][https://github.com/TroyMitchell911/RISC-V-Assembly-Learning/tree/main/1_Env]
+[Click here](./1_Env)
 
 ## Contributing
 

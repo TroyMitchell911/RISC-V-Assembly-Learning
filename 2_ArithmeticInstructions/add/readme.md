@@ -8,7 +8,7 @@ add rd, rs1, rs2
 
 - `rd`: Destination register where the result will be stored. 
 
-- ` rs1`: Source register 1, containing the first operand. 
+- `rs1`: Source register 1, containing the first operand. 
 
 - `rs2`: Source register 2, containing the second operand. 
 

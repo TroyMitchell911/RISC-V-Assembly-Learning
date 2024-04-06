@@ -49,3 +49,9 @@ A typical RISC-V assembly instruction consists of three parts.
   - Example instructions: `JAL`, `JALR`.
 
 **By the way, func3, func7 and opcode constitute the only instruction.**
+
+# About Register
+
+## 	x0
+
+In RISC-V, `x0` register is known as the zero register. It always holds the value zero and cannot be written to. While it can be used as a source register in some instructions, its value remains unchanged. Typically, `x0` is used to represent the constant zero or serves as a default operand for certain instructions.

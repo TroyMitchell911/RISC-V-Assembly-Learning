@@ -32,5 +32,3 @@ addi rd, rd, %lo(imm)   # Add the lower 12 bits of the immediate value to rd
 li x5, 42
 # Load the immediate value 42 into register x5.
 ```
-
-This Markdown code block provides an introduction to the `li` pseudo-instruction in RISC-V assembly language, explaining its usage and how it is implemented using `lui` and `addi` instructions.

@@ -4,7 +4,7 @@ A repository established for learning RISC-V assembly instructions. I will share
 
 # How should I install env
 
-[Click here][./1.Env/readme.md]
+[Click here][./1_Env/readme.md]
 
 ## Contributing
 
